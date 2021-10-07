@@ -222,7 +222,7 @@ html, body{
   #footer{
       width: 100%;
       border-top: 4px solid black;
-      min-height: 25%;
+      min-height: 35%;
   }
 
   .followMeText{
@@ -247,5 +247,10 @@ html, body{
       width: 90px;
       height: 60px;
       line-height: 39px;
-      display: inline-block
+      display: inline-block;
+      margin-bottom: 30px;
+  }
+
+  .copyright{
+      margin-bottom: 50px;
   }
