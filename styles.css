@@ -20,7 +20,7 @@ html, body{
 /* LANDING PAGE SECTION*/
 
 #home {
-    background-image: url(assets/Prague.jpg); 
+    background-image: url(./assets/Prague.jpg); 
     display: table;
     height: 100%;
     width: 100%; 
@@ -66,7 +66,7 @@ html, body{
 
 .aboutMe{
     color: black;
-    background-image:url(../Portfolio/assets/155-1557753_light-background-high-definition-wallpaper-light-high-resolution.jpg);
+    background-image:url(./assets/155-1557753_light-background-high-definition-wallpaper-light-high-resolution.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 65%;
@@ -115,7 +115,7 @@ html, body{
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-size: 100% auto;
-    background-image: url(../Portfolio/assets/Home-Landing-scaled.jpeg);
+    background-image: url(./assets/Home-Landing-scaled.jpeg);
     min-height: 65%;
     width: 100%; 
     padding-top: 20px;
